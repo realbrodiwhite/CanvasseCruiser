@@ -1,0 +1,18 @@
+{
+  "files": {
+    "src/components/common/Loader.js": [
+      {
+        "id": "bb4b4be2-5f06-4518-a18d-91b75708bfa7",
+        "line": 1,
+        "version": 3,
+        "index": 0
+      },
+      {
+        "id": "6ebb8459-e414-43d9-87f6-8c71460c4f52",
+        "line": 1,
+        "version": 3,
+        "index": 0
+      }
+    ]
+  }
+}
